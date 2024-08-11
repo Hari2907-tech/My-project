@@ -13,7 +13,7 @@ Pest Recognition:Identify,classify pests and predict the fertilizers.
 Installation
 Clone this repository to your local machine:
 
-git clone https://github.com/Ragav-krishna/Volume-Brightness-Control.git
+git clone https://github.com/Hari2907-tech/My-project.git
 Navigate to the project directory:
 
 cd Volume-Brightness-Control
