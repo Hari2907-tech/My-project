@@ -22,10 +22,8 @@ Install the required Python libraries:
 
  cv2
  Keras
- Flask
  tensorflow
  numpy 
- Pandas
  PyTorch
 
 
