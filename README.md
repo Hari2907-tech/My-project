@@ -17,6 +17,7 @@ Installation:
 Clone this repository to your local machine:
 
 git clone https://github.com/Hari2907-tech/Recommendation-of-Pesticides-Based-on-Pest-Classification/tree/main
+
 Navigate to the project directory:
 
 cd Recommendation-of-Pesticides-Based-on-Pest-Classification
