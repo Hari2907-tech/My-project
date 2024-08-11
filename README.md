@@ -13,36 +13,19 @@ Pest Recognition:Identify,classify pests and predict the fertilizers.
 Installation
 Clone this repository to your local machine:
 
-git clone https://github.com/Hari2907-tech/My-project.git
+git clone https://github.com/Hari2907-tech/Recommendation-of-Pesticides-Based-on-Pest-Classification/tree/main
 Navigate to the project directory:
 
-cd Volume-Brightness-Control
+cd Recommendation-of-Pesticides-Based-on-Pest-Classification
 
 Install the required Python libraries:
 
  cv2
- mediapipe
- math
- hypot
+ Keras
+ Flask
+ tensorflow
  numpy 
- ctypes
- comtypes 
- pycaw
- google.protobuf.json_format 
- screen_brightness_control
+ Pandas
+ PyTorch
 
-Usage
-Run the main Python script:
 
-python main.py
-Position yourself in front of the webcam, ensuring your hand is clearly visible.
-
-Perform hand gestures as follows:
-
-To control volume:(Right hand)
-Thumb up: Increase volume.
-Thumb down: Decrease volume.
-Thumb and index finger pinch: Mute/unmute.
-To adjust brightness:(left hand)
-Swipe left: Decrease brightness.
-Swipe right: Increase brightness.
